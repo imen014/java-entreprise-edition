@@ -1,0 +1,5 @@
+package com.bdd.connection;
+
+public class ConnectionClass {
+
+}

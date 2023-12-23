@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\rezgu\OneDrive\Desktop\JEE projects\applications\applications\.metadata\.plugins\org.eclipse.jdt.core
+3920047662.index
+3581733941.index
+1865797976.index
+3157597585.index
+2458036536.index

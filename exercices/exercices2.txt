@@ -1,0 +1,43 @@
+Bien sûr, voici quelques exercices plus simples pour les débutants qui souhaitent s'entraîner à Java EE (Jakarta EE) :
+
+1. **Créer une page Web simple** :
+   - Mettez en place un projet Jakarta EE pour une application Web contenant une seule page JSP ou un fichier HTML 
+simple. Affichez "Hello World" sur cette page.
+
+2. **Formulaire Web** :
+   - Créez un formulaire HTML avec quelques champs de saisie (par exemple, nom, prénom, email). Lorsque le formulaire 
+est soumis, traitez les données côté serveur en utilisant Jakarta Servlet et affichez-les sur une autre page.
+
+3. **Session utilisateur** :
+   - Implémentez un système de connexion/déconnexion simple en utilisant Jakarta Servlet. Créez une session 
+pour stocker l'état de l'utilisateur lorsqu'il se connecte.
+
+4. **Affichage de données depuis une base de données** :
+   - Configurez une base de données simple (par exemple, une base de données H2 en mémoire). Utilisez Jakarta Servlet
+ pour récupérer des données de la base de données et affichez-les sur une page.
+
+5. **Créer une petite application REST** :
+   - Créez un service Web RESTful basique en utilisant Jakarta JAX-RS. Définissez un point de terminaison qui renvoie
+ une liste d'éléments (par exemple, des fruits) au format JSON.
+
+6. **Gérer les erreurs** :
+   - Utilisez Jakarta Servlet pour gérer les erreurs et afficher des pages d'erreur personnalisées en cas d'exception.
+
+7. **Créer une application simple de blog ou de liste de tâches** :
+   - Élaborez une application Web qui permet aux utilisateurs de créer, lire, mettre à jour et supprimer des articles
+ de blog ou des tâches. Utilisez Jakarta Servlet et JSP pour cela.
+
+8. **Utilisation d'EJB (Enterprise JavaBeans)** :
+   - Créez un composant EJB (par exemple, un bean Stateless) pour effectuer une tâche simple, comme le calcul 
+de la somme de deux nombres.
+
+9. **Validation de formulaire** :
+   - Ajoutez une validation côté serveur aux formulaires de votre application en utilisant Jakarta Bean
+ Validation (par exemple, assurez-vous que l'adresse email est au bon format).
+
+10. **Gestion des sessions avec les cookies** :
+    - Utilisez Jakarta Servlet pour stocker et récupérer des informations de session en utilisant des cookies.
+
+Ces exercices sont conçus pour vous aider à vous familiariser avec les concepts de base de Jakarta EE tout en vous
+ permettant de créer des applications Web simples. Vous pouvez progressivement complexifier vos projets au fur
+ et à mesure que vous gagnez en confiance et en compétence.

@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+C:\Users\rezgu\OneDrive\Desktop\JEE projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\305778581.index
+\test_jee1\src\main\java
+C:\Users\rezgu\OneDrive\Desktop\JEE projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2323913341.index
+\JEE_Simple_Project-master\src
+C:\Users\rezgu\OneDrive\Desktop\JEE projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2299130066.index
+\test2\src\main\java
+C:\Users\rezgu\OneDrive\Desktop\JEE projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1957453816.index
+\HelloWorldProject\src\main\java
+C:\Users\rezgu\OneDrive\Desktop\JEE projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1042112816.index
+\test3\src\main\java
+C:\Users\rezgu\OneDrive\Desktop\JEE projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2862973073.index
+\JEE_Simple_Project-master\src

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" version="5.0">
+  <servlet>
+    <servlet-name>InsertDataServlet</servlet-name>
+    <servlet-class>com.crud.servlets.InsertDataServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InsertDataServlet</servlet-name>
+    <url-pattern>/insert_data</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>InsertionDataServlet</display-name>
+    <servlet-name>InsertionDataServlet</servlet-name>
+    <servlet-class>com.crud.servlets.InsertionDataServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InsertionDataServlet</servlet-name>
+    <url-pattern>/InsertionDataServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>InsertionData_Servlet</display-name>
+    <servlet-name>InsertionData_Servlet</servlet-name>
+    <servlet-class>com.crud.servlets.InsertionDataServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InsertionData_Servlet</servlet-name>
+    <url-pattern>/InsertionData_Servlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Insertion1</display-name>
+    <servlet-name>Insertion1</servlet-name>
+    <servlet-class>com.crud.servlets.Insertion1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Insertion1</servlet-name>
+    <url-pattern>/Insertion1</url-pattern>
+  </servlet-mapping>
+</web-app>

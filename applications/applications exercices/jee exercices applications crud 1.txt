@@ -1,0 +1,50 @@
+Bien sûr, voici quelques exercices plus simples pour les débutants en Java EE :
+
+1. **Liste de tâches simple :**
+   Créez une petite application Web qui permet aux utilisateurs de créer, afficher et supprimer des tâches
+ à faire. Utilisez des Servlets pour gérer les opérations CRUD.
+
+2. **Carnet d'adresses :**
+   Développez une application Java EE qui permet aux utilisateurs de créer, lire, mettre à jour et supprimer
+ des contacts dans un carnet d'adresses. Utilisez des Servlets et des pages JSP pour créer l'interface
+ utilisateur.
+
+3. **Gestion des notes :**
+   Créez une application Web qui permet aux utilisateurs de créer des notes, de les afficher, 
+de les éditer et de les supprimer. Utilisez des Servlets pour gérer les opérations CRUD.
+
+4. **Liste de courses :**
+   Développez une application Web simple qui permet aux utilisateurs de créer une liste de courses, 
+d'ajouter des articles, de les cocher comme "achetés" et de les supprimer. Utilisez des Servlets 
+et des JSP pour créer l'interface utilisateur.
+
+5. **Gestionnaire de messages :**
+   Créez une petite application Java EE pour la gestion de messages. Les utilisateurs peuvent ajouter 
+de nouveaux messages, les consulter, les mettre à jour et les supprimer. Utilisez des Servlets 
+et des pages JSP.
+
+6. **Système de notes :**
+   Concevez une application qui permet aux utilisateurs de saisir des notes, de les enregistrer, 
+de les consulter et de les supprimer. Utilisez des Servlets pour traiter les opérations CRUD.
+
+7. **Suivi des dépenses :**
+   Développez une application Web qui permet aux utilisateurs d'ajouter des dépenses, de les répertorier, 
+de les mettre à jour et de les supprimer. Utilisez des Servlets et des JSP pour l'interface utilisateur.
+
+8. **Liste de films :**
+   Créez une application de gestion de films où les utilisateurs peuvent ajouter, consulter, 
+mettre à jour et supprimer des entrées de films. Utilisez des Servlets et des pages JSP pour l'interface 
+utilisateur.
+
+9. **Blog personnel :**
+   Concevez une petite application de blog où les utilisateurs peuvent créer des articles de blog, 
+les afficher, les éditer et les supprimer. Utilisez des Servlets et des pages JSP.
+
+10. **Suivi de projets :**
+    Créez une application qui permet aux utilisateurs de gérer les projets. Les utilisateurs peuvent
+ ajouter de nouveaux projets, les consulter, les mettre à jour et les supprimer. Utilisez des Servlets
+ pour les opérations CRUD.
+
+Ces exercices sont conçus pour les débutants en Java EE et vous aideront à vous familiariser 
+avec les concepts de base du développement Web en utilisant des technologies Java EE telles que les
+ Servlets et les JSP. Ils constituent un bon point de départ pour renforcer vos compétences en Java EE.

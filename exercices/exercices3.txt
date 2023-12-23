@@ -1,0 +1,19 @@
+Formulaire de recherche :
+Créez une page JSP avec un champ de recherche. Lorsqu'un utilisateur saisit un terme de recherche, 
+affichez simplement le terme sur la page.
+
+Convertisseur de température :
+Élaborez un convertisseur de température web qui permet aux utilisateurs de saisir une valeur en degrés Celsius 
+et de la convertir en degrés Fahrenheit, et vice versa.
+
+Sondage en ligne :
+Créez une page JSP avec une question de sondage (par exemple : "Quelle est votre couleur préférée ?") et affichez 
+les résultats lorsque l'utilisateur soumet sa réponse.
+
+Galerie d'images :
+Concevez une galerie d'images web où les utilisateurs peuvent cliquer sur des miniatures pour afficher des images 
+en taille réelle.
+
+Compteur de visites :
+Élaborez une petite application qui utilise une session pour compter le nombre de visites d'un utilisateur 
+et l'affiche sur la page.

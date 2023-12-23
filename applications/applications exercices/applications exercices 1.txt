@@ -1,0 +1,64 @@
+Créer des applications simples avec une base de données en utilisant Java EE (JEE) 
+est un excellent moyen de renforcer vos compétences en développement. Voici un exemple
+ d'exercice qui vous guidera à travers le processus de création d'une application Web simple 
+avec une base de données :
+
+**Exercice : Créer une application de liste de tâches avec une base de données**
+
+**Objectif** : Développer une application de liste de tâches qui permet aux utilisateurs 
+de créer, lire, mettre à jour et supprimer des tâches en utilisant une base de données.
+
+**Étapes :**
+
+1. **Configuration de la base de données** :
+   - Créez une base de données (par exemple, MySQL ou H2) pour stocker les tâches. Vous pouvez 
+utiliser un outil de gestion de base de données pour cela.
+
+2. **Création du projet** :
+   - Créez un nouveau projet Java EE (Servlet/JSP) dans votre environnement de développement
+ préféré.
+
+3. **Création de la table de tâches** :
+   - Écrivez un script SQL pour créer une table de tâches avec des colonnes telles que l'ID 
+de la tâche, la description et l'état.
+   - Exécutez le script SQL pour créer la table dans votre base de données.
+
+4. **Connexion à la base de données** :
+   - Utilisez JDBC pour établir une connexion à la base de données depuis votre application 
+Java EE.
+   - Assurez-vous d'inclure le pilote JDBC approprié dans votre projet.
+
+5. **Création d'une page JSP pour afficher la liste de tâches** :
+   - Créez une page JSP qui affiche la liste des tâches à partir de la base de données.
+   - Utilisez des balises JSTL (JavaServer Pages Standard Tag Library) pour parcourir
+ les données et les afficher dans un tableau.
+
+6. **Création de Servlets pour gérer les opérations CRUD** :
+   - Créez des Servlets pour gérer les opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) 
+sur les tâches.
+   - Par exemple, un Servlet pour l'ajout de tâches, un pour la mise à jour et un pour 
+la suppression.
+   - Les Servlets devraient interagir avec la base de données en utilisant JDBC pour effectuer 
+ces opérations.
+
+7. **Formulaire pour ajouter de nouvelles tâches** :
+   - Créez un formulaire sur une page JSP permettant aux utilisateurs d'ajouter de nouvelles
+ tâches à la liste.
+   - Le formulaire doit envoyer les données au Servlet d'ajout de tâches.
+
+8. **Mise en forme et style** :
+   - Ajoutez du CSS pour améliorer l'apparence de votre application et rendre l'interface
+ utilisateur conviviale.
+
+9. **Tests** :
+   - Testez votre application en ajoutant, mettant à jour, supprimant et affichant des tâches.
+   - Assurez-vous que les données sont correctement stockées dans la base de données.
+
+10. **Déploiement** :
+    - Déployez votre application sur un serveur d'application, tel qu'Apache Tomcat.
+
+Ce projet vous permettra de créer une application JEE simple avec une base de données, 
+de travailler avec JDBC, d'utiliser des Servlets et des JSP, et de comprendre les opérations
+ CRUD de base. Vous pouvez également ajouter des fonctionnalités supplémentaires, telles que 
+l'authentification des utilisateurs ou des filtres pour améliorer la sécurité. 
+Ce sont des étapes importantes pour élargir vos compétences en développement JEE.

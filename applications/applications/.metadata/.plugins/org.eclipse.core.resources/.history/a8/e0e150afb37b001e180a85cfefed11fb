@@ -1,0 +1,24 @@
+package com.bdd.connection;
+
+import java.sql.Connection;
+
+public class ConnectionClass {
+	Connection connection;
+	username = "root";
+	password = "root";
+	db_name = " tasks";
+
+	
+	public void openConnection() {
+		
+	}
+	
+	public void closeConnection() {
+		if(connection != null) {
+			connection.close();
+			
+		}
+	}
+	
+
+}

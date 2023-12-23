@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+C:\Users\rezgu\OneDrive\Desktop\JEE projects\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1745888252.index
+1963291529.index
+4072516568.index

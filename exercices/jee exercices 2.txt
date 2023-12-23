@@ -1,0 +1,44 @@
+Bien sûr, voici quelques exercices encore plus simples pour les débutants en Java EE :
+
+1. **Afficher "Hello World"** :
+   Créez une petite application web qui affiche "Hello World" dans un navigateur en utilisant un seul Servlet.
+
+2. **Calculatrice simple** :
+   Concevez une calculatrice en ligne où les utilisateurs peuvent saisir deux nombres et effectuer 
+une opération mathématique (addition, soustraction, multiplication, division).
+
+3. **Page de présentation personnelle** :
+   Développez une page de présentation personnelle où vous affichez votre nom, votre photo et une brève 
+description de vous-même. Utilisez un Servlet pour générer la page.
+
+4. **Mini-blog de messages** :
+   Créez une application de mini-blog où vous pouvez publier des messages courts. Les messages devraient 
+être stockés en mémoire (par exemple, dans une liste) et affichés sur la page.
+
+5. **Système de commentaires simple** :
+   Concevez une application qui permet aux utilisateurs de laisser des commentaires sur un article unique. 
+Les commentaires devraient être stockés en mémoire et affichés sous l'article.
+
+6. **Formulaire de contact** :
+   Élaborez un formulaire de contact avec des champs pour le nom, l'adresse e-mail et le message. 
+Lorsque le formulaire est soumis, affichez les informations sur la même page ou dans une page de confirmation.
+
+7. **Page de conversion de devises** :
+   Créez une page de conversion de devises où les utilisateurs peuvent saisir un montant en euros
+ et le convertir en dollars. Affichez le résultat sur la page.
+
+8. **Ajout de tâches** :
+   Développez une liste de tâches où les utilisateurs peuvent ajouter de nouvelles tâches à faire. 
+Affichez la liste des tâches sur la même page.
+
+9. **Formulaire d'inscription minimal** :
+   Concevez un formulaire d'inscription simple où les utilisateurs saisissent uniquement leur nom 
+et leur adresse e-mail. Lorsque le formulaire est soumis, affichez un message de bienvenue.
+
+10. **Page "À propos"** :
+    Créez une page "À propos" qui contient quelques détails sur vous ou sur un sujet de votre choix. 
+Utilisez un Servlet pour générer cette page.
+
+Ces exercices sont conçus pour être encore plus simples, idéaux pour les débutants qui souhaitent 
+se familiariser avec les concepts de base de Java EE et la création d'applications web élémentaires.
+ Ils vous aideront à renforcer vos compétences tout en restant accessibles.

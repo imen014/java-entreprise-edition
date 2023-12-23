@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<p> Bonjour à vous  ! </p>
+<%@ include file="menu.jsp" %>
+<p>
+</p>Bonjour ${ !empty name ? name : ''}
+<%
+String name = (String) request.getAttribute("name");
+out.println(name);
+
+%>
+<p>
+${6 + 2}
+${ noms[2] }
+${ auteur.nom } 
+${auteur.prenom } ${ auteur.actif ? 'vous étes trés actif' : 'vous étes inactif' }
+
+</p>
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,40 @@
+package com.bdd.connection;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+
+public class ConnectionClass {
+	username = "root";
+	password = "root";
+	db_name = " tasks";
+	String db_url = "jdbc:mysql://localhost:3306/tasks";
+
+	
+	public void openConnection() {
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			connection = new Connection(db_url , db_name, password, username );
+			
+			
+			
+			
+			
+		}catch(SQLException e) {
+			System.out.println("echec d'accées à la bdd ! " + e.getMessage());
+
+			
+		}
+		
+	}
+	
+	public void closeConnection() {
+		try{
+			connection.close();
+			
+		}catch(SQLException e) {
+			System.out.println("erreur lors de la fermeture de ressource ! " + e.getMessage());
+		}
+	}
+	
+
+}

@@ -1,0 +1,45 @@
+Bien sûr, voici quelques exercices plus simples pour les débutants en Java EE :
+
+1. **Créez une application "Hello World" avec Servlet** :
+   - Créez une application Web Java EE avec un Servlet qui affiche "Hello, World!" dans le navigateur lorsque 
+vous accédez à une URL spécifique.
+
+2. **Formulaire de connexion avec Servlet et JSP** :
+   - Créez une page de connexion (formulaire HTML) avec un Servlet pour gérer la soumission.
+   - Affichez un message de bienvenue sur une page JSP si le nom d'utilisateur et le mot de passe sont corrects.
+
+3. **Création d'une page JSP pour afficher une liste de noms** :
+   - Créez une liste de noms dans un tableau Java.
+   - Utilisez une page JSP pour parcourir et afficher la liste de noms.
+
+4. **Gestion de sessions avec Servlet** :
+   - Créez une application avec un Servlet qui stocke un compteur de visites dans la session.
+   - Affichez le nombre de visites sur la page.
+
+5. **Ajout de CSS à une page JSP** :
+   - Créez une page JSP simple.
+   - Ajoutez du CSS pour améliorer la mise en page et l'apparence de la page.
+
+6. **Envoi d'e-mails depuis une application Java EE** :
+   - Créez une petite application qui envoie un e-mail à une adresse spécifiée lorsque vous cliquez 
+sur un bouton.
+
+7. **Utilisation de JPA pour stocker des informations utilisateur** :
+   - Créez une entité JPA pour stocker des informations utilisateur (par exemple, nom, prénom, adresse e-mail).
+   - Utilisez JPA pour ajouter, lire et mettre à jour des informations utilisateur dans la base de données.
+
+8. **Création d'un formulaire de contact** :
+   - Créez un formulaire de contact avec des champs pour le nom, l'e-mail et le message.
+   - Utilisez un Servlet pour recevoir les données du formulaire et afficher un message de confirmation.
+
+9. **Créez une application de conversion de devises** :
+   - Créez une application Web simple qui permet à l'utilisateur de convertir une somme d'argent d'une devise 
+à une autre en utilisant un taux de change fixe.
+
+10. **Utilisez des filtres pour gérer l'encodage des caractères** :
+    - Créez un filtre Servlet qui gère l'encodage des caractères pour toutes les requêtes entrantes afin de
+ garantir une gestion correcte des caractères spéciaux.
+
+Ces exercices devraient vous aider à acquérir de l'expérience dans le développement d'applications Web Java
+ EE tout en restant simples et adaptés aux débutants. Vous pouvez progressivement augmenter la complexité 
+de vos projets à mesure que vous gagnez en confiance et en compétence.

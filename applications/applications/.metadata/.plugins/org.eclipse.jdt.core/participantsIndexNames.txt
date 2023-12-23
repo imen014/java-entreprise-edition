@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\rezgu\OneDrive\Desktop\JEE projects\applications\applications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2757690207.index
+\tasks\src\main\java

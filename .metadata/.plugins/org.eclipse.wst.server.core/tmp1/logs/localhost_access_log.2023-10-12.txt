@@ -1,0 +1,9 @@
+127.0.0.1 - - [12/Oct/2023:17:14:20 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:17:14:21 +0100] "GET /HelloWorldProject/servlet/com.octest.Servlets.HelloWorld HTTP/1.1" 404 745
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:17:14:21 +0100] "GET /favicon.ico HTTP/1.1" 404 692
+127.0.0.1 - - [12/Oct/2023:17:17:16 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:17:17:16 +0100] "GET /HelloWorldProject/servlet/com.octest.Servlets.HelloWorld HTTP/1.1" 404 745
+127.0.0.1 - - [12/Oct/2023:17:21:52 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:17:21:52 +0100] "GET /HelloWorldProject/servlet/com.octest.Servlets.HelloWorld HTTP/1.1" 404 745
+127.0.0.1 - - [12/Oct/2023:17:29:13 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:17:29:13 +0100] "GET /HelloWorldProject/servlet/com.octest.Servlets.HelloWorld HTTP/1.1" 404 745
